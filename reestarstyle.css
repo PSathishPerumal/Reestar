@@ -1,0 +1,144 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+
+}
+
+.section-one {
+    display: inline-block;
+    background-color: black;
+    color: white;
+    height: 100px;
+    width: 1290px;
+    text-align: center;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+
+.section-one__title {
+    padding: 10px;
+    text-align: center;
+}
+
+.section-two {
+    display: inline-block;
+    margin: 5px;
+    margin-left: 25px;
+    text-align: center;
+}
+
+.container {
+    display: inline-block;
+
+}
+
+.container__box1 {
+    display: inline-block;
+    border: 5px solid black;
+    height: 440px;
+    width: 300px;
+    padding: 5px;
+    vertical-align: top;
+
+}
+
+.container__img {
+    height: 300px;
+    width: 300px;
+}
+
+.container__button {
+    background-color: orange;
+    color: white;
+    padding: 5px;
+    text-align: center;
+
+}
+
+.container__box2 {
+    display: inline-block;
+    border: 5px solid black;
+    height: 440px;
+    width: 300px;
+    padding: 5px;
+    vertical-align: top;
+}
+
+.container__img2 {
+    height: 300px;
+    width: 300px;
+}
+
+.container__button2 {
+    background-color: orange;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.container__box3 {
+    display: inline-block;
+    border: 5px solid black;
+    height: 440px;
+    width: 300px;
+    padding: 5px;
+    vertical-align: top;
+
+}
+
+.container__img3 {
+    height: 300px;
+    width: 300px;
+}
+
+.container__button3 {
+    background-color: orange;
+    color: white;
+    padding: 5px;
+    text-align: center;
+
+}
+
+.container__box4 {
+    display: inline-block;
+    border: 5px solid black;
+    height: 440px;
+    width: 300px;
+    padding: 5px;
+    vertical-align: top;
+
+}
+
+.container__img4 {
+    height: 300px;
+    width: 300px;
+}
+
+.container__button4 {
+    background-color: orange;
+    color: white;
+    padding: 5px;
+    text-align: center;
+
+}
+
+.section-three__button {
+    background-color: yellowgreen;
+    color: black;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.section-three {
+    background-color: black;
+    color: white;
+    width: 100%;
+    margin-top: 10px;
+}
